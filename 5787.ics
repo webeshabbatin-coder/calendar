@@ -1,0 +1,2219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//We Be Shabbatin'//Appointed Times 5787//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Shabbat, new moons and the appointed times of YHWH for the He
+ brew year 5787 (Sept 2026 - Aug 2027), following the Hillel II fixed Hebre
+ w calendar. Biblical days begin at sundown the evening before. https://web
+ eshabbatin.com
+NAME:We Be Shabbatin' Biblical Calendar 5787
+X-WR-CALNAME:We Be Shabbatin' Biblical Calendar 5787
+COLOR:darkred
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+URL:https://webeshabbatin.com
+X-PUBLISHED-TTL:P1D
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Yom Teruah & Rosh Chodesh begin at sundown
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DTSTAMP:20261023T170000Z
+UID:5787-yom-teruah-eve@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Begins at Sundown
+CLASS:PUBLIC
+DESCRIPTION:Tonight at sundown the Feast of Trumpets and the new month of 
+ Tishrei begin. Light your candles\, open the Word\, and listen for the cal
+ l to awaken.\n\nScripture: Leviticus 23:23-25\nHebrew date: 29 Elul 5786\n
+ \nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://webes
+ habbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Teruah · Feast of Trumpets · Day 1
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20261023T170000Z
+UID:5787-yom-teruah-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The trumpet calls us to wake up\, prepare\, and draw near to Y
+ HWH. A beautiful day to blow the shofar\, rest\, and remember that He is K
+ ing.\n\nScripture: Leviticus 23:24\nBiblical days begin at sundown\, so th
+ is begins the evening before: at sundown on Friday\, September 11.\nHebrew
+  date: 1 Tishrei 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 ca
+ lendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Tishrei · New Moon
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20261023T170000Z
+UID:5787-rc-tishrei@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The seventh month begins. Tishrei holds Trumpets\, Atonement a
+ nd Tabernacles\, the fall feasts all in one month.\n\nScripture: Numbers 1
+ 0:10\nBiblical days begin at sundown\, so this begins the evening before: 
+ at sundown on Friday\, September 11.\nHebrew date: 1 Tishrei 5787\n\nFrom 
+ the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbati
+ n.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Teruah · Feast of Trumpets · Day 2
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20261023T170000Z
+UID:5787-yom-teruah-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:A second day of trumpets\, kept by tradition. Linger in the ca
+ ll to awaken and let the new year start with Him.\n\nScripture: Leviticus 
+ 23:24\nBiblical days begin at sundown\, so this begins the evening before:
+  at sundown on Saturday\, September 12.\nHebrew date: 2 Tishrei 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Kippur · Day of Atonement
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20261023T170000Z
+UID:5787-yom-kippur@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The most solemn day of the year\, a day to humble our hearts\,
+  fast and pray. We rest in the atonement He provides.\n\nScripture: Leviti
+ cus 23:26-32\nBiblical days begin at sundown\, so this begins the evening 
+ before: at sundown on Sunday\, September 20.\nHebrew date: 10 Tishrei 5787
+ \n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://web
+ eshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 1 of 7
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Sukkot begins! Seven days to dwell\, celebrate and rejoice\, r
+ emembering that YHWH is in our midst.\n\nScripture: Leviticus 23:33-43\nBi
+ blical days begin at sundown\, so this begins the evening before: at sundo
+ wn on Friday\, September 25.\nHebrew date: 15 Tishrei 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 2 of 7
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day in the booths. Eat outside\, look up at the stars
+ \, and rejoice with your household.\n\nScripture: Leviticus 23:33-43\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Saturday\, September 26.\nHebrew date: 16 Tishrei 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 3 of 7
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-3@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day in the booths. Eat outside\, look up at the stars
+ \, and rejoice with your household.\n\nScripture: Leviticus 23:33-43\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Sunday\, September 27.\nHebrew date: 17 Tishrei 5787\n\nFrom the We Be
+  Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 4 of 7
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-4@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day in the booths. Eat outside\, look up at the stars
+ \, and rejoice with your household.\n\nScripture: Leviticus 23:33-43\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Monday\, September 28.\nHebrew date: 18 Tishrei 5787\n\nFrom the We Be
+  Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 5 of 7
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-5@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day in the booths. Eat outside\, look up at the stars
+ \, and rejoice with your household.\n\nScripture: Leviticus 23:33-43\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Tuesday\, September 29.\nHebrew date: 19 Tishrei 5787\n\nFrom the We B
+ e Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 6 of 7
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-6@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day in the booths. Eat outside\, look up at the stars
+ \, and rejoice with your household.\n\nScripture: Leviticus 23:33-43\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Wednesday\, September 30.\nHebrew date: 20 Tishrei 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sukkot · Day 7 of 7 · Hoshana Rabbah
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261023T170000Z
+UID:5787-sukkot-7@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The last and great day of the feast. A day to pray for rain an
+ d living water to flow.\n\nScripture: Leviticus 23:40\; John 7:37\nBiblica
+ l days begin at sundown\, so this begins the evening before: at sundown on
+  Thursday\, October 1.\nHebrew date: 21 Tishrei 5787\n\nFrom the We Be Sha
+ bbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shemini Atzeret · Eighth Day Assembly
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20261023T170000Z
+UID:5787-shemini-atzeret@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The eighth day\, when He asks us to stay a little longer with 
+ Him. A holy convocation and a sweet close to the feast.\n\nScripture: Levi
+ ticus 23:36\nBiblical days begin at sundown\, so this begins the evening b
+ efore: at sundown on Friday\, October 2.\nHebrew date: 22 Tishrei 5787\n\n
+ From the We Be Shabbatin' Appointed Times 5787 calendar · https://webesha
+ bbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simchat Torah · Rejoicing in the Torah
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20261023T170000Z
+UID:5787-simchat-torah@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:We finish reading the Torah and roll right back to Genesis. A 
+ joyful day to celebrate His Word.\n\nScripture: Psalm 119:97\nBiblical day
+ s begin at sundown\, so this begins the evening before: at sundown on Satu
+ rday\, October 3.\nHebrew date: 23 Tishrei 5787\n\nFrom the We Be Shabbati
+ n' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Cheshvan · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261023T170000Z
+UID:5787-rc-cheshvan-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Cheshvan. A fresh month and a fresh start to s
+ eek Him. (Rosh Chodesh is kept two days this month: the 30th of the old mo
+ nth and the 1st of Cheshvan.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBi
+ blical days begin at sundown\, so this begins the evening before: at sundo
+ wn on Saturday\, October 10.\nHebrew date: 30 Tishrei 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Cheshvan · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261023T170000Z
+UID:5787-rc-cheshvan-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Cheshvan. A fresh month and a fresh start to s
+ eek Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at 
+ sundown\, so this begins the evening before: at sundown on Sunday\, Octobe
+ r 11.\nHebrew date: 1 Cheshvan 5787\n\nFrom the We Be Shabbatin' Appointed
+  Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Kislev · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261023T170000Z
+UID:5787-rc-kislev-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Kislev. A fresh month and a fresh start to see
+ k Him. (Rosh Chodesh is kept two days this month: the 30th of the old mont
+ h and the 1st of Kislev.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblic
+ al days begin at sundown\, so this begins the evening before: at sundown o
+ n Monday\, November 9.\nHebrew date: 30 Cheshvan 5787\n\nFrom the We Be Sh
+ abbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Kislev · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261023T170000Z
+UID:5787-rc-kislev-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Kislev. A fresh month and a fresh start to see
+ k Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at su
+ ndown\, so this begins the evening before: at sundown on Tuesday\, Novembe
+ r 10.\nHebrew date: 1 Kislev 5787\n\nFrom the We Be Shabbatin' Appointed T
+ imes 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah begins at sundown · Light the 1st candle
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-eve@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Begins at Sundown
+CLASS:PUBLIC
+DESCRIPTION:Tonight we light the first candle! Gather your family\, light 
+ the hanukkiah\, and remember that His light still shines in the darkness.
+ \n\nScripture: John 10:22-23\nHebrew date: 24 Kislev 5787\n\nFrom the We B
+ e Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 1 of 8
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 2 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 25 Kislev 5787\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 2 of 8
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 3 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 26 Kislev 5787\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 3 of 8
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-3@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 4 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 27 Kislev 5787\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 4 of 8
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-4@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 5 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 28 Kislev 5787\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 5 of 8
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-5@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 6 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 29 Kislev 5787\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 6 of 8
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-6@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 7 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 30 Kislev 5787\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Tevet · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261023T170000Z
+UID:5787-rc-tevet-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Tevet. A fresh month and a fresh start to seek
+  Him. (Rosh Chodesh is kept two days this month: the 30th of the old month
+  and the 1st of Tevet.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical
+  days begin at sundown\, so this begins the evening before: at sundown on 
+ Wednesday\, December 9.\nHebrew date: 30 Kislev 5787\n\nFrom the We Be Sha
+ bbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 7 of 8
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-7@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. Tonight\, light 8 candles.\n\nScripture: John 10:22-23\; 1 Maccabees 
+ 4:52-59\nHebrew date: 1 Tevet 5787\n\nFrom the We Be Shabbatin' Appointed 
+ Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Tevet · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20261023T170000Z
+UID:5787-rc-tevet-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Tevet. A fresh month and a fresh start to seek
+  Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at sun
+ down\, so this begins the evening before: at sundown on Thursday\, Decembe
+ r 10.\nHebrew date: 1 Tevet 5787\n\nFrom the We Be Shabbatin' Appointed Ti
+ mes 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanukkah · Day 8 of 8
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261023T170000Z
+UID:5787-hanukkah-8@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Dedication\, a celebration of light and faithfuln
+ ess. The eighth and final day of the feast.\n\nScripture: John 10:22-23\; 
+ 1 Maccabees 4:52-59\nHebrew date: 2 Tevet 5787\n\nFrom the We Be Shabbatin
+ ' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Shevat · New Moon
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20261023T170000Z
+UID:5787-rc-shevat-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Shevat. A fresh month and a fresh start to see
+ k Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at su
+ ndown\, so this begins the evening before: at sundown on Friday\, January 
+ 8.\nHebrew date: 1 Shevat 5787\n\nFrom the We Be Shabbatin' Appointed Time
+ s 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tu B'Shvat
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261023T170000Z
+UID:5787-tu-bshvat@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:The new year for the trees\, the 15th of Shevat. A sweet day t
+ o thank Him for the fruit of the land and a reminder that a life rooted in
+  Him bears fruit in its season.\n\nScripture: Leviticus 19:23-25\; Psalm 1
+ :3\nBiblical days begin at sundown\, so this begins the evening before: at
+  sundown on Friday\, January 22.\nHebrew date: 15 Shevat 5787\n\nFrom the 
+ We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.co
+ m
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Adar I · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261023T170000Z
+UID:5787-rc-adar-i-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Adar I. A fresh month and a fresh start to see
+ k Him. (Rosh Chodesh is kept two days this month: the 30th of the old mont
+ h and the 1st of Adar I.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblic
+ al days begin at sundown\, so this begins the evening before: at sundown o
+ n Saturday\, February 6.\nHebrew date: 30 Shevat 5787\n\nFrom the We Be Sh
+ abbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Adar I · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+DTSTAMP:20261023T170000Z
+UID:5787-rc-adar-i-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Adar I. A fresh month and a fresh start to see
+ k Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at su
+ ndown\, so this begins the evening before: at sundown on Sunday\, February
+  7.\nHebrew date: 1 Adar I 5787\n\nFrom the We Be Shabbatin' Appointed Tim
+ es 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purim Katan · Little Purim
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261023T170000Z
+UID:5787-purim-katan@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:In a leap year\, the 14th of Adar I is a little Purim\, a quie
+ t reminder that His deliverance is coming. Real Purim is one month away!\n
+ \nScripture: Esther 9:21-22\nBiblical days begin at sundown\, so this begi
+ ns the evening before: at sundown on Saturday\, February 20.\nHebrew date:
+  14 Adar I 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar
+  · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Adar II · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+DTSTAMP:20261023T170000Z
+UID:5787-rc-adar-ii-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Adar II. A fresh month and a fresh start to se
+ ek Him. (Rosh Chodesh is kept two days this month: the 30th of the old mon
+ th and the 1st of Adar II.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Monday\, March 8.\nHebrew date: 30 Adar I 5787\n\nFrom the We Be Shabb
+ atin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Adar II · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+DTSTAMP:20261023T170000Z
+UID:5787-rc-adar-ii-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Adar II. A fresh month and a fresh start to se
+ ek Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at s
+ undown\, so this begins the evening before: at sundown on Tuesday\, March 
+ 9.\nHebrew date: 1 Adar II 5787\n\nFrom the We Be Shabbatin' Appointed Tim
+ es 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast of Esther · Purim begins at sundown
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20261023T170000Z
+UID:5787-fast-of-esther@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:A day to pray like Esther did\, then Purim begins at sundown. 
+ He sees\, He knows\, and He places us for such a time as this.\n\nScriptur
+ e: Esther 4:16\nHebrew date: 13 Adar II 5787\n\nFrom the We Be Shabbatin' 
+ Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purim
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+DTSTAMP:20261023T170000Z
+UID:5787-purim@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Celebrate His deliverance! Read the Book of Esther\, share gif
+ ts of food\, and give to those in need.\n\nScripture: Esther 9:20-22\nBibl
+ ical days begin at sundown\, so this begins the evening before: at sundown
+  on Monday\, March 22.\nHebrew date: 14 Adar II 5787\n\nFrom the We Be Sha
+ bbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shushan Purim
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+DTSTAMP:20261023T170000Z
+UID:5787-shushan-purim@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:Purim as kept in the walled city of Shushan\, one more day to 
+ rejoice.\n\nScripture: Esther 9:18\nBiblical days begin at sundown\, so th
+ is begins the evening before: at sundown on Tuesday\, March 23.\nHebrew da
+ te: 15 Adar II 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 cale
+ ndar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Nisan · New Moon
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+DTSTAMP:20261023T170000Z
+UID:5787-rc-nisan-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Nisan. A fresh month and a fresh start to seek
+  Him. Nisan is the first of months\, the head of the biblical year (Exodus
+  12:2).\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at s
+ undown\, so this begins the evening before: at sundown on Wednesday\, Apri
+ l 7.\nHebrew date: 1 Nisan 5787\n\nFrom the We Be Shabbatin' Appointed Tim
+ es 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passover · Pesach (14 Nisan)
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+DTSTAMP:20261023T170000Z
+UID:5787-passover@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:YHWH's Passover\, the 14th of Nisan. The Passover Seder is hel
+ d at sundown on the evening of April 21\, as Unleavened Bread begins. Tell
+  the story to your children\; it's His story of redemption.\n\nScripture: 
+ Leviticus 23:5\; Exodus 12\nBiblical days begin at sundown\, so this begin
+ s the evening before: at sundown on Tuesday\, April 20.\nHebrew date: 14 N
+ isan 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · ht
+ tps://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 1 of 7
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The Feast of Unleavened Bread begins\, a holy convocation. Sev
+ en days without leaven\, remembering how He brought us out.\n\nScripture: 
+ Leviticus 23:6-8\nBiblical days begin at sundown\, so this begins the even
+ ing before: at sundown on Wednesday\, April 21.\nHebrew date: 15 Nisan 578
+ 7\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://we
+ beshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 2 of 7
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day of matzah and remembering. Let Him sweep the leave
+ n out of our hearts too.\n\nScripture: Leviticus 23:6-8\nBiblical days beg
+ in at sundown\, so this begins the evening before: at sundown on Thursday
+ \, April 22.\nHebrew date: 16 Nisan 5787\n\nFrom the We Be Shabbatin' Appo
+ inted Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Firstfruits · Omer Begins (16 Nisan)
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20261023T170000Z
+UID:5787-firstfruits@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Firstfruits\, counted from the day after the first feast day (
+ 16 Nisan). The Omer count toward Shavuot begins.\n\nScripture: Leviticus 2
+ 3:9-14\; 1 Corinthians 15:20\nBiblical days begin at sundown\, so this beg
+ ins the evening before: at sundown on Thursday\, April 22.\nHebrew date: 1
+ 6 Nisan 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar ·
+  https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+DTSTAMP:20261023T170000Z
+UID:5787-omer-01@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 1 of the Omer\, which is 1 day. Each day we count
+  is one step closer to Shavuot\, so let's count with expectation. The coun
+ t is said at nightfall the evening before (on the evening of April 22).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 16 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 3 of 7
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-3@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day of matzah and remembering. Let Him sweep the leave
+ n out of our hearts too.\n\nScripture: Leviticus 23:6-8\nBiblical days beg
+ in at sundown\, so this begins the evening before: at sundown on Friday\, 
+ April 23.\nHebrew date: 17 Nisan 5787\n\nFrom the We Be Shabbatin' Appoint
+ ed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 2
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+DTSTAMP:20261023T170000Z
+UID:5787-omer-02@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 2 of the Omer\, which is 2 days. Each day we coun
+ t is one step closer to Shavuot\, so let's count with expectation. The cou
+ nt is said at nightfall the evening before (on the evening of April 23).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 17 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 4 of 7
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-4@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day of matzah and remembering. Let Him sweep the leave
+ n out of our hearts too.\n\nScripture: Leviticus 23:6-8\nBiblical days beg
+ in at sundown\, so this begins the evening before: at sundown on Saturday
+ \, April 24.\nHebrew date: 18 Nisan 5787\n\nFrom the We Be Shabbatin' Appo
+ inted Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Firstfruits · Sunday count
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261023T170000Z
+UID:5787-firstfruits-alt@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Some families count Firstfruits from the weekly Sabbath\, whic
+ h places it on this Sunday. We show it both ways so you can follow your fe
+ llowship.\n\nScripture: Leviticus 23:9-14\; 1 Corinthians 15:20\nBiblical 
+ days begin at sundown\, so this begins the evening before: at sundown on S
+ aturday\, April 24.\nHebrew date: 18 Nisan 5787\n\nFrom the We Be Shabbati
+ n' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 3
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261023T170000Z
+UID:5787-omer-03@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 3 of the Omer\, which is 3 days. Each day we coun
+ t is one step closer to Shavuot\, so let's count with expectation. The cou
+ nt is said at nightfall the evening before (on the evening of April 24).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 18 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 5 of 7
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-5@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day of matzah and remembering. Let Him sweep the leave
+ n out of our hearts too.\n\nScripture: Leviticus 23:6-8\nBiblical days beg
+ in at sundown\, so this begins the evening before: at sundown on Sunday\, 
+ April 25.\nHebrew date: 19 Nisan 5787\n\nFrom the We Be Shabbatin' Appoint
+ ed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 4
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+DTSTAMP:20261023T170000Z
+UID:5787-omer-04@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 4 of the Omer\, which is 4 days. Each day we coun
+ t is one step closer to Shavuot\, so let's count with expectation. The cou
+ nt is said at nightfall the evening before (on the evening of April 25).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 19 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 6 of 7
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-6@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Another day of matzah and remembering. Let Him sweep the leave
+ n out of our hearts too.\n\nScripture: Leviticus 23:6-8\nBiblical days beg
+ in at sundown\, so this begins the evening before: at sundown on Monday\, 
+ April 26.\nHebrew date: 20 Nisan 5787\n\nFrom the We Be Shabbatin' Appoint
+ ed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 5
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+DTSTAMP:20261023T170000Z
+UID:5787-omer-05@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 5 of the Omer\, which is 5 days. Each day we coun
+ t is one step closer to Shavuot\, so let's count with expectation. The cou
+ nt is said at nightfall the evening before (on the evening of April 26).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 20 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unleavened Bread · Day 7 of 7
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+DTSTAMP:20261023T170000Z
+UID:5787-unleavened-bread-7@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:The seventh day of Unleavened Bread\, a holy convocation to cl
+ ose the feast.\n\nScripture: Leviticus 23:6-8\nBiblical days begin at sund
+ own\, so this begins the evening before: at sundown on Tuesday\, April 27.
+ \nHebrew date: 21 Nisan 5787\n\nFrom the We Be Shabbatin' Appointed Times 
+ 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 6
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+DTSTAMP:20261023T170000Z
+UID:5787-omer-06@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 6 of the Omer\, which is 6 days. Each day we coun
+ t is one step closer to Shavuot\, so let's count with expectation. The cou
+ nt is said at nightfall the evening before (on the evening of April 27).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 21 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 7
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+DTSTAMP:20261023T170000Z
+UID:5787-omer-07@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 7 of the Omer\, which is 1 week. Each day we coun
+ t is one step closer to Shavuot\, so let's count with expectation. The cou
+ nt is said at nightfall the evening before (on the evening of April 28).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 22 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 8
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+DTSTAMP:20261023T170000Z
+UID:5787-omer-08@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 8 of the Omer\, which is 1 week and 1 day. Each d
+ ay we count is one step closer to Shavuot\, so let's count with expectatio
+ n. The count is said at nightfall the evening before (on the evening of Ap
+ ril 29).\n\nScripture: Leviticus 23:15-16\nHebrew date: 23 Nisan 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 9
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261023T170000Z
+UID:5787-omer-09@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 9 of the Omer\, which is 1 week and 2 days. Each 
+ day we count is one step closer to Shavuot\, so let's count with expectati
+ on. The count is said at nightfall the evening before (on the evening of A
+ pril 30).\n\nScripture: Leviticus 23:15-16\nHebrew date: 24 Nisan 5787\n\n
+ From the We Be Shabbatin' Appointed Times 5787 calendar · https://webesha
+ bbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 10
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20261023T170000Z
+UID:5787-omer-10@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 10 of the Omer\, which is 1 week and 3 days. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 1).\n\nScripture: Leviticus 23:15-16\nHebrew date: 25 Nisan 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 11
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20261023T170000Z
+UID:5787-omer-11@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 11 of the Omer\, which is 1 week and 4 days. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 2).\n\nScripture: Leviticus 23:15-16\nHebrew date: 26 Nisan 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 12
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DTSTAMP:20261023T170000Z
+UID:5787-omer-12@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 12 of the Omer\, which is 1 week and 5 days. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 3).\n\nScripture: Leviticus 23:15-16\nHebrew date: 27 Nisan 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 13
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+DTSTAMP:20261023T170000Z
+UID:5787-omer-13@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 13 of the Omer\, which is 1 week and 6 days. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 4).\n\nScripture: Leviticus 23:15-16\nHebrew date: 28 Nisan 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 14
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20261023T170000Z
+UID:5787-omer-14@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 14 of the Omer\, which is 2 weeks. Each day we co
+ unt is one step closer to Shavuot\, so let's count with expectation. The c
+ ount is said at nightfall the evening before (on the evening of May 5).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 29 Nisan 5787\n\nFrom the We
+  Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Iyar · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20261023T170000Z
+UID:5787-rc-iyar-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Iyar. A fresh month and a fresh start to seek 
+ Him. (Rosh Chodesh is kept two days this month: the 30th of the old month 
+ and the 1st of Iyar.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical d
+ ays begin at sundown\, so this begins the evening before: at sundown on Th
+ ursday\, May 6.\nHebrew date: 30 Nisan 5787\n\nFrom the We Be Shabbatin' A
+ ppointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 15
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+DTSTAMP:20261023T170000Z
+UID:5787-omer-15@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 15 of the Omer\, which is 2 weeks and 1 day. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 6).\n\nScripture: Leviticus 23:15-16\nHebrew date: 30 Nisan 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Iyar · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261023T170000Z
+UID:5787-rc-iyar-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Iyar. A fresh month and a fresh start to seek 
+ Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at sund
+ own\, so this begins the evening before: at sundown on Friday\, May 7.\nHe
+ brew date: 1 Iyar 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 c
+ alendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 16
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261023T170000Z
+UID:5787-omer-16@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 16 of the Omer\, which is 2 weeks and 2 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 7).\n\nScripture: Leviticus 23:15-16\nHebrew date: 1 Iyar 5787\n\nFro
+ m the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabba
+ tin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 17
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261023T170000Z
+UID:5787-omer-17@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 17 of the Omer\, which is 2 weeks and 3 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 8).\n\nScripture: Leviticus 23:15-16\nHebrew date: 2 Iyar 5787\n\nFro
+ m the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabba
+ tin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 18
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+DTSTAMP:20261023T170000Z
+UID:5787-omer-18@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 18 of the Omer\, which is 2 weeks and 4 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 9).\n\nScripture: Leviticus 23:15-16\nHebrew date: 3 Iyar 5787\n\nFro
+ m the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabba
+ tin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom HaZikaron
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20261023T170000Z
+UID:5787-yom-hazikaron@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:Israel's Memorial Day. A quiet day to remember the fallen and 
+ to pray for comfort over the families who still carry the loss.\n\nScriptu
+ re: Psalm 34:18\; Psalm 122:6\nBiblical days begin at sundown\, so this be
+ gins the evening before: at sundown on Monday\, May 10.\nHebrew date: 4 Iy
+ ar 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · http
+ s://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 19
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20261023T170000Z
+UID:5787-omer-19@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 19 of the Omer\, which is 2 weeks and 5 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 10).\n\nScripture: Leviticus 23:15-16\nHebrew date: 4 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom HaAtzmaut
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+DTSTAMP:20261023T170000Z
+UID:5787-yom-haatzmaut@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:Israel's Independence Day. We thank Him for His faithfulness t
+ o bring His people home\, just as He promised.\n\nScripture: Isaiah 66:8\;
+  Amos 9:14-15\nBiblical days begin at sundown\, so this begins the evening
+  before: at sundown on Tuesday\, May 11.\nHebrew date: 5 Iyar 5787\n\nFrom
+  the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbat
+ in.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 20
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+DTSTAMP:20261023T170000Z
+UID:5787-omer-20@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 20 of the Omer\, which is 2 weeks and 6 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 11).\n\nScripture: Leviticus 23:15-16\nHebrew date: 5 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 21
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+DTSTAMP:20261023T170000Z
+UID:5787-omer-21@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 21 of the Omer\, which is 3 weeks. Each day we co
+ unt is one step closer to Shavuot\, so let's count with expectation. The c
+ ount is said at nightfall the evening before (on the evening of May 12).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 6 Iyar 5787\n\nFrom the We B
+ e Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 22
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+DTSTAMP:20261023T170000Z
+UID:5787-omer-22@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 22 of the Omer\, which is 3 weeks and 1 day. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 13).\n\nScripture: Leviticus 23:15-16\nHebrew date: 7 Iyar 5787\n\nFro
+ m the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabba
+ tin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 23
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261023T170000Z
+UID:5787-omer-23@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 23 of the Omer\, which is 3 weeks and 2 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 14).\n\nScripture: Leviticus 23:15-16\nHebrew date: 8 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 24
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261023T170000Z
+UID:5787-omer-24@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 24 of the Omer\, which is 3 weeks and 3 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 15).\n\nScripture: Leviticus 23:15-16\nHebrew date: 9 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 25
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+DTSTAMP:20261023T170000Z
+UID:5787-omer-25@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 25 of the Omer\, which is 3 weeks and 4 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 16).\n\nScripture: Leviticus 23:15-16\nHebrew date: 10 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 26
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+DTSTAMP:20261023T170000Z
+UID:5787-omer-26@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 26 of the Omer\, which is 3 weeks and 5 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 17).\n\nScripture: Leviticus 23:15-16\nHebrew date: 11 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 27
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20261023T170000Z
+UID:5787-omer-27@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 27 of the Omer\, which is 3 weeks and 6 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 18).\n\nScripture: Leviticus 23:15-16\nHebrew date: 12 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 28
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+DTSTAMP:20261023T170000Z
+UID:5787-omer-28@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 28 of the Omer\, which is 4 weeks. Each day we co
+ unt is one step closer to Shavuot\, so let's count with expectation. The c
+ ount is said at nightfall the evening before (on the evening of May 19).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 13 Iyar 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesach Sheni · Second Passover
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+DTSTAMP:20261023T170000Z
+UID:5787-pesach-sheni@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:A second chance to keep the Passover\, given to those who coul
+ dn't keep it the first time. What a picture of His mercy.\n\nScripture: Nu
+ mbers 9:9-11\nBiblical days begin at sundown\, so this begins the evening 
+ before: at sundown on Thursday\, May 20.\nHebrew date: 14 Iyar 5787\n\nFro
+ m the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabba
+ tin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 29
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+DTSTAMP:20261023T170000Z
+UID:5787-omer-29@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 29 of the Omer\, which is 4 weeks and 1 day. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 20).\n\nScripture: Leviticus 23:15-16\nHebrew date: 14 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 30
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20261023T170000Z
+UID:5787-omer-30@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 30 of the Omer\, which is 4 weeks and 2 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 21).\n\nScripture: Leviticus 23:15-16\nHebrew date: 15 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 31
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261023T170000Z
+UID:5787-omer-31@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 31 of the Omer\, which is 4 weeks and 3 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 22).\n\nScripture: Leviticus 23:15-16\nHebrew date: 16 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 32
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+DTSTAMP:20261023T170000Z
+UID:5787-omer-32@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 32 of the Omer\, which is 4 weeks and 4 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 23).\n\nScripture: Leviticus 23:15-16\nHebrew date: 17 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lag BaOmer · 33rd Day of the Omer
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20261023T170000Z
+UID:5787-lag-baomer@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:The 33rd day of the count\, traditionally a day of joy in the 
+ middle of the counting season. Keep counting toward Shavuot!\n\nScripture:
+  Leviticus 23:15-16\nBiblical days begin at sundown\, so this begins the e
+ vening before: at sundown on Monday\, May 24.\nHebrew date: 18 Iyar 5787\n
+ \nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://webes
+ habbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 33
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20261023T170000Z
+UID:5787-omer-33@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 33 of the Omer\, which is 4 weeks and 5 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 24).\n\nScripture: Leviticus 23:15-16\nHebrew date: 18 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 34
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DTSTAMP:20261023T170000Z
+UID:5787-omer-34@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 34 of the Omer\, which is 4 weeks and 6 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 25).\n\nScripture: Leviticus 23:15-16\nHebrew date: 19 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 35
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+DTSTAMP:20261023T170000Z
+UID:5787-omer-35@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 35 of the Omer\, which is 5 weeks. Each day we co
+ unt is one step closer to Shavuot\, so let's count with expectation. The c
+ ount is said at nightfall the evening before (on the evening of May 26).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 20 Iyar 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 36
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20261023T170000Z
+UID:5787-omer-36@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 36 of the Omer\, which is 5 weeks and 1 day. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ May 27).\n\nScripture: Leviticus 23:15-16\nHebrew date: 21 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 37
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+DTSTAMP:20261023T170000Z
+UID:5787-omer-37@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 37 of the Omer\, which is 5 weeks and 2 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 28).\n\nScripture: Leviticus 23:15-16\nHebrew date: 22 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 38
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+DTSTAMP:20261023T170000Z
+UID:5787-omer-38@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 38 of the Omer\, which is 5 weeks and 3 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 29).\n\nScripture: Leviticus 23:15-16\nHebrew date: 23 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 39
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20261023T170000Z
+UID:5787-omer-39@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 39 of the Omer\, which is 5 weeks and 4 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 30).\n\nScripture: Leviticus 23:15-16\nHebrew date: 24 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 40
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20261023T170000Z
+UID:5787-omer-40@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 40 of the Omer\, which is 5 weeks and 5 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  May 31).\n\nScripture: Leviticus 23:15-16\nHebrew date: 25 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 41
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+DTSTAMP:20261023T170000Z
+UID:5787-omer-41@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 41 of the Omer\, which is 5 weeks and 6 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  June 1).\n\nScripture: Leviticus 23:15-16\nHebrew date: 26 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 42
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+DTSTAMP:20261023T170000Z
+UID:5787-omer-42@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 42 of the Omer\, which is 6 weeks. Each day we co
+ unt is one step closer to Shavuot\, so let's count with expectation. The c
+ ount is said at nightfall the evening before (on the evening of June 2).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 27 Iyar 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yom Yerushalayim (Jerusalem Day)
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20261023T170000Z
+UID:5787-yom-yerushalayim@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:Jerusalem Day\, remembering the reunification of the city in 1
+ 967. Lift up Jerusalem in prayer today.\n\nScripture: Psalm 122:6-7\; Zech
+ ariah 8:3\nBiblical days begin at sundown\, so this begins the evening bef
+ ore: at sundown on Thursday\, June 3.\nHebrew date: 28 Iyar 5787\n\nFrom t
+ he We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin
+ .com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 43
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20261023T170000Z
+UID:5787-omer-43@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 43 of the Omer\, which is 6 weeks and 1 day. Each
+  day we count is one step closer to Shavuot\, so let's count with expectat
+ ion. The count is said at nightfall the evening before (on the evening of 
+ June 3).\n\nScripture: Leviticus 23:15-16\nHebrew date: 28 Iyar 5787\n\nFr
+ om the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabb
+ atin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 44
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+DTSTAMP:20261023T170000Z
+UID:5787-omer-44@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 44 of the Omer\, which is 6 weeks and 2 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  June 4).\n\nScripture: Leviticus 23:15-16\nHebrew date: 29 Iyar 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Sivan · New Moon
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261023T170000Z
+UID:5787-rc-sivan-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Sivan. A fresh month and a fresh start to seek
+  Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at sun
+ down\, so this begins the evening before: at sundown on Saturday\, June 5.
+ \nHebrew date: 1 Sivan 5787\n\nFrom the We Be Shabbatin' Appointed Times 5
+ 787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 45
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+DTSTAMP:20261023T170000Z
+UID:5787-omer-45@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 45 of the Omer\, which is 6 weeks and 3 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  June 5).\n\nScripture: Leviticus 23:15-16\nHebrew date: 1 Sivan 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 46
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+DTSTAMP:20261023T170000Z
+UID:5787-omer-46@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 46 of the Omer\, which is 6 weeks and 4 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  June 6).\n\nScripture: Leviticus 23:15-16\nHebrew date: 2 Sivan 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 47
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+DTSTAMP:20261023T170000Z
+UID:5787-omer-47@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 47 of the Omer\, which is 6 weeks and 5 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  June 7).\n\nScripture: Leviticus 23:15-16\nHebrew date: 3 Sivan 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 48
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20261023T170000Z
+UID:5787-omer-48@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 48 of the Omer\, which is 6 weeks and 6 days. Eac
+ h day we count is one step closer to Shavuot\, so let's count with expecta
+ tion. The count is said at nightfall the evening before (on the evening of
+  June 8).\n\nScripture: Leviticus 23:15-16\nHebrew date: 4 Sivan 5787\n\nF
+ rom the We Be Shabbatin' Appointed Times 5787 calendar · https://webeshab
+ batin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erev Shavuot · Shavuot begins at sundown
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20261023T170000Z
+UID:5787-shavuot-eve@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Begins at Sundown
+CLASS:PUBLIC
+DESCRIPTION:Tonight Shavuot begins! Today is also the 49th and final day o
+ f the Omer count. Gather your household and get ready to celebrate the har
+ vest He promised.\n\nScripture: Leviticus 23:15-16\nHebrew date: 5 Sivan 5
+ 787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://
+ webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omer · Day 49
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DTSTAMP:20261023T170000Z
+UID:5787-omer-49@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Counting the Omer
+CLASS:PUBLIC
+DESCRIPTION:Today is day 49 of the Omer\, which is 7 weeks. Each day we co
+ unt is one step closer to Shavuot\, so let's count with expectation. The c
+ ount is said at nightfall the evening before (on the evening of June 9).\n
+ \nScripture: Leviticus 23:15-16\nHebrew date: 5 Sivan 5787\n\nFrom the We 
+ Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot · Feast of Weeks (6 Sivan)
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20261023T170000Z
+UID:5787-shavuot@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Fifty days from Firstfruits we celebrate Shavuot\, the giving 
+ of the Torah at Sinai and the pouring out of the Spirit.\n\nScripture: Lev
+ iticus 23:15-21\; Acts 2:1-4\nBiblical days begin at sundown\, so this beg
+ ins the evening before: at sundown on Thursday\, June 10.\nHebrew date: 6 
+ Sivan 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · h
+ ttps://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot · Day 2 (Diaspora)
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+DTSTAMP:20261023T170000Z
+UID:5787-shavuot-2-diaspora@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:Outside the Land of Israel\, Shavuot is traditionally kept a s
+ econd day. One more day to rejoice in His Word and His Spirit.\n\nScriptur
+ e: Leviticus 23:15-21\; Acts 2:1-4\nBiblical days begin at sundown\, so th
+ is begins the evening before: at sundown on Friday\, June 11.\nHebrew date
+ : 7 Sivan 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar 
+ · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shavuot · Sunday count
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+DTSTAMP:20261023T170000Z
+UID:5787-shavuot-alt@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Appointed Time
+CLASS:PUBLIC
+DESCRIPTION:For families who count from the weekly Sabbath\, Shavuot falls
+  on this Sunday. Fifty days of counting\, one beautiful harvest.\n\nScript
+ ure: Leviticus 23:15-21\; Acts 2:1-4\nBiblical days begin at sundown\, so 
+ this begins the evening before: at sundown on Saturday\, June 12.\nHebrew 
+ date: 8 Sivan 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calen
+ dar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Tammuz · Day 1 of 2 · New Moon
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+DTSTAMP:20261023T170000Z
+UID:5787-rc-tammuz-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Tammuz. A fresh month and a fresh start to see
+ k Him. (Rosh Chodesh is kept two days this month: the 30th of the old mont
+ h and the 1st of Tammuz.)\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblic
+ al days begin at sundown\, so this begins the evening before: at sundown o
+ n Sunday\, July 4.\nHebrew date: 30 Sivan 5787\n\nFrom the We Be Shabbatin
+ ' Appointed Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Tammuz · Day 2 of 2 · New Moon
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+DTSTAMP:20261023T170000Z
+UID:5787-rc-tammuz-2@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Tammuz. A fresh month and a fresh start to see
+ k Him.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at su
+ ndown\, so this begins the evening before: at sundown on Monday\, July 5.
+ \nHebrew date: 1 Tammuz 5787\n\nFrom the We Be Shabbatin' Appointed Times 
+ 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast of Tammuz (17 Tammuz)
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+DTSTAMP:20261023T170000Z
+UID:5787-fast-of-tammuz@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:A daytime fast\, from dawn until nightfall\, remembering when 
+ the walls of Jerusalem were breached. It opens the three weeks of mourning
+  that lead to Tisha B'Av. We fast and pray with hope\, because He restores
+ .\n\nScripture: Zechariah 8:19\; Jeremiah 52:6-7\nHebrew date: 17 Tammuz 5
+ 787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://
+ webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosh Chodesh Av · New Moon
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+DTSTAMP:20261023T170000Z
+UID:5787-rc-av-1@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Rosh Chodesh
+CLASS:PUBLIC
+DESCRIPTION:The new moon of Av. A fresh month and a fresh start to seek Hi
+ m.\n\nScripture: Numbers 10:10\; Psalm 81:3\nBiblical days begin at sundow
+ n\, so this begins the evening before: at sundown on Tuesday\, August 3.\n
+ Hebrew date: 1 Av 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 c
+ alendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tisha B'Av
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+DTSTAMP:20261023T170000Z
+UID:5787-tisha-bav@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:The 9th of Av\, a day of mourning for the destruction of both 
+ Temples. We read Lamentations\, fast\, and hold on to His faithfulness\, b
+ ecause His mercies have not run out.\n\nScripture: Lamentations 1:1\; Lame
+ ntations 3:22-23\nBiblical days begin at sundown\, so this begins the even
+ ing before: at sundown on Wednesday\, August 11.\nHebrew date: 9 Av 5787\n
+ \nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https://webes
+ habbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tu B'Av
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+DTSTAMP:20261023T170000Z
+UID:5787-tu-bav@webeshabbatin.com
+SEQUENCE:0
+CATEGORIES:Observance
+CLASS:PUBLIC
+DESCRIPTION:The 15th of Av\, a joyful day of love and new beginnings\, jus
+ t one week after Tisha B'Av. Sorrow gives way to joy!\n\nScripture: Judges
+  21:19-21\; Psalm 30:11\nBiblical days begin at sundown\, so this begins t
+ he evening before: at sundown on Tuesday\, August 17.\nHebrew date: 15 Av 
+ 5787\n\nFrom the We Be Shabbatin' Appointed Times 5787 calendar · https:/
+ /webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shabbat
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20261023T170000Z
+UID:5787-shabbat-weekly@webeshabbatin.com
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;UNTIL=20270828
+CATEGORIES:Shabbat
+CLASS:PUBLIC
+DESCRIPTION:Shabbat shalom! A day to rest\, worship and enjoy His presence
+  with the ones you love. Shabbat begins Friday at sundown and ends Saturda
+ y at nightfall.\n\nScripture: Exodus 20:8-11\; Leviticus 23:3\n\nFrom the 
+ We Be Shabbatin' Appointed Times 5787 calendar · https://webeshabbatin.co
+ m
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candle Lighting · Shabbat begins at sundown
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20261023T170000Z
+UID:5787-candle-lighting-weekly@webeshabbatin.com
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;UNTIL=20270827
+CATEGORIES:Shabbat
+CLASS:PUBLIC
+DESCRIPTION:Light the Shabbat candles before sundown and welcome the Sabba
+ th. Check your local sunset time\; it changes through the year.\n\nScriptu
+ re: Leviticus 23:3\; Isaiah 58:13-14\n\nFrom the We Be Shabbatin' Appointe
+ d Times 5787 calendar · https://webeshabbatin.com
+TRANSP:TRANSPARENT
+URL:https://webeshabbatin.com/products/biblical-hebrew-calendar-2026-2027-
+ appointed-times-feast-days-wall-calendar
+END:VEVENT
+END:VCALENDAR
